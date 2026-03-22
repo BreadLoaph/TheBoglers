@@ -111,11 +111,6 @@ hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
 
 [[files]]
-file = "mods/corail-tombstone.pw.toml"
-hash = "80fc5d7af0f1e2ec6935f15d4c98c6958db494505c3b6036193ee3d13f7643ad"
-metafile = true
-
-[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "ad0d3c199591934bc2d2acdfb4e0008ec212a1c222c0d8bb6c8c6b8903519f16"
 metafile = true
