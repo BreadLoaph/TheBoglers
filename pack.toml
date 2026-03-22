@@ -1,0 +1,13 @@
+name = "The Boglers"
+author = "Anton"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2d1c6e00730d9c8a00883ab8350ee0944489e333e57209df27bc7f77060cae73"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.220"

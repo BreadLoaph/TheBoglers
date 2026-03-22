@@ -1,0 +1,13 @@
+name = "One Enough Lib"
+filename = "OELib-neoforge-1.21.1-0.1.2-hotfix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7ODqOXka/versions/izIm3kSi/OELib-neoforge-1.21.1-0.1.2-hotfix.jar"
+hash-format = "sha512"
+hash = "25792be3076663e698e55f19c38e12dfa6f6cd98e8dca73147ac392024b7b38866d361b1788e3e0b7063fbd77c8fd43f60863e068bf195dec1cca40b68f0ea4c"
+
+[update]
+[update.modrinth]
+mod-id = "7ODqOXka"
+version = "izIm3kSi"

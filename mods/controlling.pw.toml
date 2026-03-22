@@ -1,0 +1,13 @@
+name = "Controlling"
+filename = "Controlling-neoforge-1.21.11-29.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xv94TkTM/versions/hdMpvWkx/Controlling-neoforge-1.21.11-29.0.1.jar"
+hash-format = "sha512"
+hash = "22d3ca6031aee4e1c74345f6ac3b2cf7d0268c5a28460e97a44adef6b68dbe1d2739eee2a5a77601ac138b8760c6a5a3188c77c949303e54c9d20862a3e80149"
+
+[update]
+[update.modrinth]
+mod-id = "xv94TkTM"
+version = "hdMpvWkx"
