@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
@@ -151,11 +151,6 @@ hash = "4f70e3a81a737468bc9de58f12ec91b31d9062395a83ec8e5d9fd9c1ddeeb306"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "c5d9463a333c76d68273247bc3449060b4c58e5d8997536bc57b1de0953a6785"
-metafile = true
-
-[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
 metafile = true
@@ -191,6 +186,16 @@ hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "291ab7e398118ff6a89b43eae60c3b219e1d96caaf048de00ad0747048e3ab48"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "bb02254ff406bc071898c14e89f3dae3230d877e5bf30b6f614fc1bbf06d9f73"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
@@ -206,13 +211,13 @@ hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
 metafile = true
 
 [[files]]
-file = "mods/hiddenmons-cobblemon.pw.toml"
-hash = "d2e4214bbe6f93f7f95f688989ee296b419b7dba10dee858abb346ae73b4cfbe"
+file = "mods/immersiveengineering.pw.toml"
+hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
 metafile = true
 
 [[files]]
-file = "mods/immersiveengineering.pw.toml"
-hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
+file = "mods/inventory-essentials.pw.toml"
+hash = "74290a70d2b4c7d055161808cbad7f7b865a6abe1f2b84ae441f41b587f8ff3a"
 metafile = true
 
 [[files]]
@@ -223,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "3f907a8532b4ca98390055ca0cb1bbd87e8ebcd44be6afe9b69280859ff37035"
 metafile = true
 
 [[files]]
@@ -351,6 +361,11 @@ hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
+metafile = true
+
+[[files]]
 file = "mods/rctapi.pw.toml"
 hash = "47b0a061240ac1f002dca20f4ffde04dc6ca9ddcafa80b9a355528a3ee9a13f0"
 metafile = true
@@ -468,4 +483,29 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
+metafile = true
+
+[[files]]
+file = "mods/yyzs-backpack.pw.toml"
+hash = "e0ecbadb1d9bd44332d1d2b86103ba340845d772f2e4e5ae02877555b0ba6068"
+metafile = true
+
+[[files]]
+file = "resourcepacks/allthemons.pw.toml"
+hash = "984f4355de95cc2ad3b65552b70e643d7ca127f04d3775eee1c209ba3ba991bd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hiddenmons-cobblemon.pw.toml"
+hash = "d2e4214bbe6f93f7f95f688989ee296b419b7dba10dee858abb346ae73b4cfbe"
+metafile = true
+
+[[files]]
+file = "world/datapacks/allthemons.pw.toml"
+hash = "984f4355de95cc2ad3b65552b70e643d7ca127f04d3775eee1c209ba3ba991bd"
+metafile = true
+
+[[files]]
+file = "world/datapacks/hiddenmons-cobblemon.pw.toml"
+hash = "d2e4214bbe6f93f7f95f688989ee296b419b7dba10dee858abb346ae73b4cfbe"
 metafile = true
