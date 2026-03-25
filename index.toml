@@ -464,6 +464,11 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
 file = "mods/xaero-zoomout.pw.toml"
 hash = "89e8aa3851da2a224d65258ff1fb63210095c38ceb28cbd524af195f01cdfac7"
 metafile = true
