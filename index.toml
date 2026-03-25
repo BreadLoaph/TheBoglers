@@ -204,11 +204,6 @@ hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
 metafile = true
 
 [[files]]
-file = "mods/ctrl-q.pw.toml"
-hash = "a018808663308995e1ea54bd23c50c8205ccdc20f0b37007c79592d1ad59aacb"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
