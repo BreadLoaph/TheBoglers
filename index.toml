@@ -9,11 +9,6 @@ file = "gitattributes.txt"
 hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
 
 [[files]]
-file = "mods/accessories-compat-layer.pw.toml"
-hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
-metafile = true
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
@@ -265,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-monuments.pw.toml"
-hash = "1f0f6fa1504c94b14f816c05068b42354cb29d2a38b49842bbd410d413be1ab1"
+hash = "e1f8a888c24fa3af21d18428471a72ee867321adfda329e31dc3ba555fc0209f"
 metafile = true
 
 [[files]]
@@ -461,11 +456,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
-hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]
