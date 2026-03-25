@@ -1,0 +1,13 @@
+name = "Ctrl Q"
+filename = "ctrlq-neoforge-mc1.21.9+--1.9.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dxv5rpnB/versions/mFvGRsDU/ctrlq-neoforge-mc1.21.9%2B--1.9.2.jar"
+hash-format = "sha512"
+hash = "ac49f4f418dbad6314402125a3e3a65b64ecd094023d1c3dbaf67e1b0529121a3455ae7b06d96a8892d2ba9e92441b7fc63778120d66a7b2427f43a45e5b31eb"
+
+[update]
+[update.modrinth]
+mod-id = "Dxv5rpnB"
+version = "mFvGRsDU"
