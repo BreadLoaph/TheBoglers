@@ -56,6 +56,11 @@ hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
 file = "mods/cobblefurnies.pw.toml"
 hash = "bd1f2508c571574e76ae32614a353eb900063c0e2bf54bb29ac98e7d6ab36eb6"
 metafile = true
@@ -138,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
+metafile = true
+
+[[files]]
+file = "mods/deepnull-reforged.pw.toml"
+hash = "2464cc3359faf0b46b92a36fa21812f747c1359f943864b16b1db34e1aac2faa"
 metafile = true
 
 [[files]]
@@ -391,6 +401,11 @@ hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "fd9a324e9fbecfcefaf377532088693a4a6c3cf2963735375dffbafb97770007"
+metafile = true
+
+[[files]]
 file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
 hash = "307a39080394cbe930be57e67fb8dae37601e8f0842da10da10977d261dac07d"
 metafile = true
@@ -438,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "192a4685f8a182d1fa2fae67e2fad8b74ba547726beecfe8868174b4172d76a8"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "ef80891ed72e87e1fd2fda3bcee9e8a50e5c4cf836283ae8ef4c81e7fd213fd0"
 metafile = true
 
 [[files]]
