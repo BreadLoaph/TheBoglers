@@ -444,11 +444,6 @@ hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
 metafile = true
 
 [[files]]
-file = "mods/notenoughrecipebook.pw.toml"
-hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
-metafile = true
-
-[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "e8100d935e20369ed13b31ea2423482eadd4c8ed123fd8e77320b12fa883dbb6"
 metafile = true
