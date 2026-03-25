@@ -501,6 +501,11 @@ hash = "d2e4214bbe6f93f7f95f688989ee296b419b7dba10dee858abb346ae73b4cfbe"
 metafile = true
 
 [[files]]
+file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
+hash = "a958030f95997d32191ffd80d656314b86747c46adfb16a3a128389d6a3ff6c9"
+metafile = true
+
+[[files]]
 file = "world/datapacks/allthemons.pw.toml"
 hash = "984f4355de95cc2ad3b65552b70e643d7ca127f04d3775eee1c209ba3ba991bd"
 metafile = true
