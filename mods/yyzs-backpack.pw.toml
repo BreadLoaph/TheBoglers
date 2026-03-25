@@ -1,0 +1,13 @@
+name = "yyz's backpack"
+filename = "yyzsbackpack-neoforge-21.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zO7tsTJN/versions/A6bCvCiA/yyzsbackpack-neoforge-21.1.2.jar"
+hash-format = "sha512"
+hash = "096181f8402add8485df091ba53b4716f9d840f4a2d02599fb2d5b2f944d22ef44893ac8a4f02a774f4168b42b1b8ccc03761358ab20a173cb6bb4ae7873940d"
+
+[update]
+[update.modrinth]
+mod-id = "zO7tsTJN"
+version = "A6bCvCiA"
