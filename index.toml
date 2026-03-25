@@ -226,6 +226,11 @@ hash = "74290a70d2b4c7d055161808cbad7f7b865a6abe1f2b84ae441f41b587f8ff3a"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
