@@ -1,0 +1,13 @@
+name = "Bundle Backport-ish"
+filename = "bundle-backportish-1.1.5+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/91hOfmS6/versions/YoDcA59K/bundle-backportish-1.1.5%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "dc1299e46760cab41dc118a2bd411772006c9f58d79ed4e562ddb22739d68550760f025e9fe764cd39d5623cdf77448859ac15dc432138c7c6ecb3d74d6407ab"
+
+[update]
+[update.modrinth]
+mod-id = "91hOfmS6"
+version = "YoDcA59K"
