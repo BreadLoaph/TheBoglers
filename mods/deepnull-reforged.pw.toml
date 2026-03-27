@@ -1,13 +1,13 @@
 name = "DeepNull Reforged (DankNull)"
-filename = "deepnull-reforged-4.0.9.jar"
+filename = "deepnull-reforged-4.0.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yYjkmjge/versions/OZtKI0Xx/deepnull-reforged-4.0.9.jar"
+url = "https://cdn.modrinth.com/data/yYjkmjge/versions/VzizqNhw/deepnull-reforged-4.0.10.jar"
 hash-format = "sha512"
-hash = "5c7b24b658912ff1e92f33423be06fda665d5fb726539f081b970be710875dbd709b7f18ff0b8932b68c6abb4d536edd0cf2175e00886a82f279102182450d2c"
+hash = "e6572de5cdbbb2c9b274e8bfb5802057b0bd884cdf0d08852d44e61ccf2a63e2c0cd890e143ee95858fc27406399c260fb86d29eb0b81e7a1b5468d7645d930a"
 
 [update]
 [update.modrinth]
 mod-id = "yYjkmjge"
-version = "OZtKI0Xx"
+version = "VzizqNhw"

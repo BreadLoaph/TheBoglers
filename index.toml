@@ -59,6 +59,11 @@ hash = "547660bb17452fae6e46504c87eea9e75eeb50de440495cadcee9ad49c6d131d"
 metafile = true
 
 [[files]]
+file = "mods/bank-storage.pw.toml"
+hash = "7f7f4e17b07ec1ed6274a38dbd4328b088eada6d20aab0a7449534dda4c60707"
+metafile = true
+
+[[files]]
 file = "mods/beans-backpacks-3.pw.toml"
 hash = "a9769b168381a11a916f2faca33a4a4c6bef21e3fc3f637a8091122e64d3a4d3"
 metafile = true
@@ -215,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/deepnull-reforged.pw.toml"
-hash = "d612d594b52c0f9905a642bf659235a0c2de4ec67955e1d0e0070d08401d7584"
+hash = "29828567567ec678bb35c72a2c8acb3b307cae1e95bf6aeec9f7199cbc42985b"
 metafile = true
 
 [[files]]
