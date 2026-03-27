@@ -59,6 +59,16 @@ hash = "547660bb17452fae6e46504c87eea9e75eeb50de440495cadcee9ad49c6d131d"
 metafile = true
 
 [[files]]
+file = "mods/bank-storage.pw.toml"
+hash = "7f7f4e17b07ec1ed6274a38dbd4328b088eada6d20aab0a7449534dda4c60707"
+metafile = true
+
+[[files]]
+file = "mods/beans-backpacks-3.pw.toml"
+hash = "a9769b168381a11a916f2faca33a4a4c6bef21e3fc3f637a8091122e64d3a4d3"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
 metafile = true
@@ -74,8 +84,8 @@ hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
-file = "mods/bundle-recipe.pw.toml"
-hash = "9fdd6e5493d0bbf564f032223ef2106eaef018e16d63d337043dc162771228dd"
+file = "mods/bundle-backportish.pw.toml"
+hash = "8abdbed7efb6bf4016dd98b328cbc29ca406f8e8147141a0caeb7ee71b3d71d5"
 metafile = true
 
 [[files]]
@@ -210,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/deepnull-reforged.pw.toml"
-hash = "2464cc3359faf0b46b92a36fa21812f747c1359f943864b16b1db34e1aac2faa"
+hash = "29828567567ec678bb35c72a2c8acb3b307cae1e95bf6aeec9f7199cbc42985b"
 metafile = true
 
 [[files]]
@@ -286,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "bb02254ff406bc071898c14e89f3dae3230d877e5bf30b6f614fc1bbf06d9f73"
+metafile = true
+
+[[files]]
+file = "mods/fullblock-energistics.pw.toml"
+hash = "765e83380327bafd8d0c59826985c3f5206e7fe910dfbc9d29a03b265e37ccb2"
 metafile = true
 
 [[files]]
@@ -431,6 +446,11 @@ metafile = true
 [[files]]
 file = "mods/more-delight.pw.toml"
 hash = "26037d30e6793c772f46bbd1f4a6bc1b07806a7f611fe9c42f21a95902a4d577"
+metafile = true
+
+[[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "aebb0584b057847e605301fac10e669613bf9c9215ed7cbe6f49e6047487c680"
 metafile = true
 
 [[files]]
