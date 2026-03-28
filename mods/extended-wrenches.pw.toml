@@ -1,0 +1,13 @@
+name = "Create: Extended Wrenches"
+filename = "create-extended-wrenches-1.21.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WNRCHiE5/versions/BM3Pr9Mj/create-extended-wrenches-1.21.1-2.0.1.jar"
+hash-format = "sha512"
+hash = "7aa1d515b3841a7d8eacf753500576c3322126758f76478ccd692ac7e8b40753122d247609c034f17e4ac1a37c6aedc57d51acfbe5c546154051ae5d629b4d37"
+
+[update]
+[update.modrinth]
+mod-id = "WNRCHiE5"
+version = "BM3Pr9Mj"
