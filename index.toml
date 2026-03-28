@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CLAUDE.md"
+hash = "801aa3321ab5aab315b53d4acb89531afc418da909cb131bb9dd7ff592736360"
+
+[[files]]
 file = "README.md"
 hash = "77a79e1d9dbe23320d72665905d8620197d49724a0ed5de32154d709e4c1443a"
 
@@ -86,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/bundle-backportish.pw.toml"
 hash = "8abdbed7efb6bf4016dd98b328cbc29ca406f8e8147141a0caeb7ee71b3d71d5"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "3dafaa6f87e16cb6f08b836047f7e404931db9afda2f6cbd26beed550fb03025"
 metafile = true
 
 [[files]]
@@ -274,8 +283,18 @@ hash = "11e43d47773d438897c9e445a1231ab2158b99ba24c7e59a6d69e62c1349b4b2"
 metafile = true
 
 [[files]]
+file = "mods/extended-wrenches.pw.toml"
+hash = "b26a7557ac7ff208a4842924a3a18027b08b5842d8ad2eb54a2c8ab278b1fa01"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "b75ba223cc0d159d38890b0c5db42e9454210f874dd0d0b9060f8277e803a5d8"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "9db6b697952d190c3c3fc6024f74713d74a808e5ec85c1adfd3e23ca769cd588"
 metafile = true
 
 [[files]]
@@ -501,6 +520,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "330eae6dd751b70d4761f5fb556bc476f693549f3eb42ff7f441e1cd5bfe3cfb"
 metafile = true
 
 [[files]]
