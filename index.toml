@@ -208,8 +208,28 @@ hash = "ad0d3c199591934bc2d2acdfb4e0008ec212a1c222c0d8bb6c8c6b8903519f16"
 metafile = true
 
 [[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
+metafile = true
+
+[[files]]
+file = "mods/create-cobblemon-balls-overhaul.pw.toml"
+hash = "b0b9ba7305cc583459c483d1b6c93237a5108134c0ae1c5918ec3862856ff15a"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "b6a96c5ca32349b73df3dc7f91083d2b365c0065f8022fee7020f3ae39900888"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimine.pw.toml"
+hash = "626f08493ba89cfc07ec5329d5bd642488f2f09299ec9651d0da71480cd991ef"
 metafile = true
 
 [[files]]
@@ -365,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+metafile = true
+
+[[files]]
+file = "mods/klinksnklangs.pw.toml"
+hash = "d4e73044ef837c0e5c4cb06b35bec04d14acd3deca2b241a8718bcca21a9c3c3"
 metafile = true
 
 [[files]]
