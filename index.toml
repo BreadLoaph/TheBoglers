@@ -28,6 +28,11 @@ hash = "b0e660b67dcb3abd84eb3d0ee9f2d04458abfce45ec74df1886d03f3aaf9fa15"
 metafile = true
 
 [[files]]
+file = "mods/ae2-qol-recipes.pw.toml"
+hash = "0bd11ad5856e558c44060185154083447a3e940b06be350625d862749b9409a0"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
@@ -58,6 +63,11 @@ hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "f3ab8f1de5571de21ab2247fcfedef8a2bf40dcf0b2ac9e90d39689a20b9e7b4"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "574807cedb57ba6360060d6bf4a359cea9d00bf8700caee866d48ab949005b89"
 metafile = true
@@ -85,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
+metafile = true
+
+[[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
 metafile = true
 
 [[files]]
@@ -233,6 +248,11 @@ hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "fa7e815272f183ccdeac6baff3690f6291c4117646af8912123b705fde64dbef"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimine.pw.toml"
 hash = "626f08493ba89cfc07ec5329d5bd642488f2f09299ec9651d0da71480cd991ef"
 metafile = true
@@ -310,6 +330,11 @@ metafile = true
 [[files]]
 file = "mods/extended-wrenches.pw.toml"
 hash = "b26a7557ac7ff208a4842924a3a18027b08b5842d8ad2eb54a2c8ab278b1fa01"
+metafile = true
+
+[[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "42e926b206764c4c666ba7491d4b7f96445fe696cd1287c341d1524f9f5552ee"
 metafile = true
 
 [[files]]
@@ -558,6 +583,11 @@ hash = "330eae6dd751b70d4761f5fb556bc476f693549f3eb42ff7f441e1cd5bfe3cfb"
 metafile = true
 
 [[files]]
+file = "mods/pretty-in-pink.pw.toml"
+hash = "47563beaf6073dabfb48c0acb465afd119b663b39fc4ad7e148079f4bfe1082a"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
@@ -590,6 +620,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "6a598c073aabc968d8ee736141d238c517e13662f3de0feb81796cb9c0d6f4f0"
+metafile = true
+
+[[files]]
+file = "mods/schematic-energistics.pw.toml"
+hash = "af400e4556da94126796a8f2f9d1f060f05c91b4ecce8d6f3d20a9d6b3b77da2"
 metafile = true
 
 [[files]]
