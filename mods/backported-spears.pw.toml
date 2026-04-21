@@ -1,0 +1,13 @@
+name = "Backported Spears"
+filename = "spear-backport-neoforge-1.8.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rVUtrHuM/versions/FROwtXRs/spear-backport-neoforge-1.8.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "fa6e48ad8a8f9649e6fb20558d320c37fe63c48e9105dc21ae58ca8a7df7421909e7cea467f2280b56edbe456356ad4d04b54aad90721c0bfa0ef0dff3011cf8"
+
+[update]
+[update.modrinth]
+mod-id = "rVUtrHuM"
+version = "FROwtXRs"

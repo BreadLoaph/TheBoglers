@@ -1,0 +1,13 @@
+name = "You Died"
+filename = "YouDied-neoforge-1.21-4.0.0.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QgxY6tZf/versions/zt08XPkG/YouDied-neoforge-1.21-4.0.0.19.jar"
+hash-format = "sha512"
+hash = "32f6b6fc64c30af56b9e541c1c00052a3508aa9a1d4b23f0c5608e2c302b5d7d85b26fee4c445597b3df283ef2e8636cb92f37cb9182713b836e50ff2b37d251"
+
+[update]
+[update.modrinth]
+mod-id = "QgxY6tZf"
+version = "zt08XPkG"
