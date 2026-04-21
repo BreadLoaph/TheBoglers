@@ -448,11 +448,6 @@ hash = "3003180f2f32aa8aea9bc786e935e0b224f509f0131df625090c12f528d8ddc7"
 metafile = true
 
 [[files]]
-file = "mods/leaves-be-gone.pw.toml"
-hash = "3f907a8532b4ca98390055ca0cb1bbd87e8ebcd44be6afe9b69280859ff37035"
-metafile = true
-
-[[files]]
 file = "mods/legendary-monuments.pw.toml"
 hash = "e1f8a888c24fa3af21d18428471a72ee867321adfda329e31dc3ba555fc0209f"
 metafile = true
