@@ -128,6 +128,11 @@ hash = "0620370193cd76f48ebf81bd0d213cdc3adb5c640d8e39d5758d6f166c0c5036"
 metafile = true
 
 [[files]]
+file = "mods/chatimage.pw.toml"
+hash = "ab86397cfb46c63da961139edf09c8511f0bcafcfaac04844e43e756521330ef"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
@@ -148,6 +153,11 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
+file = "mods/cobble-blocks.pw.toml"
+hash = "f77696b479431c7454b3454ef68bf6a24fe5a367afad2c16902dd90653d8bedf"
+metafile = true
+
+[[files]]
 file = "mods/cobblefurnies.pw.toml"
 hash = "bd1f2508c571574e76ae32614a353eb900063c0e2bf54bb29ac98e7d6ab36eb6"
 metafile = true
@@ -165,6 +175,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-emi.pw.toml"
 hash = "1d530d3cefe90b67c56aa9fe1759a96e89276cc9d5a9be033f8b1ef2abe9942f"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mc-swords-for-honedge-line.pw.toml"
+hash = "754eb633b30a9f53663dedd2926f15c047885a1248ab2a04dc91b7abef17abd2"
 metafile = true
 
 [[files]]
@@ -205,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemore-library.pw.toml"
 hash = "cf4cb0b27f637954e20c73efa13d5ac2f543f1fad5a1e8dd344aeef678de8979"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a567cd22b6f35cb5f71b4aa394c01d341ce01274c9b6256cbcc6f48a450a2ba3"
 metafile = true
 
 [[files]]
@@ -255,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "e0eea3fa3d5911be14d85fcc5ded11206f7ea5c71adfb98a34e5fd08de693d0d"
 metafile = true
 
 [[files]]
@@ -398,6 +423,11 @@ hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
 metafile = true
 
 [[files]]
+file = "mods/imaginebook.pw.toml"
+hash = "08ae12934873f95cbab24266d13fee8adb6631bb05e0f7c3d87114693fb1154e"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
@@ -420,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "750f4b552490779af147a9c70a558ab2aa1cbfd8331d5ad69efefa099854dfae"
 metafile = true
 
 [[files]]
@@ -578,6 +613,11 @@ hash = "2488bf19149e671ab9fc63823029b19ebae6c4eeabb7ff748c0be341758a246b"
 metafile = true
 
 [[files]]
+file = "mods/piglin-names.pw.toml"
+hash = "b23d01f5913ebf33fb203e9c55b7e4dac5a7c4cebcbfedfea1b37beaa926e745"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "9263405332ca3b5da9de2f7e05b53c2544b8fcb5345e0d80b05f8b87f07d6b29"
 metafile = true
@@ -605,6 +645,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
+metafile = true
+
+[[files]]
+file = "mods/quicker-connect-button.pw.toml"
+hash = "c13c6602104ecf85c08826473087e9bd555d17326cb1f4eb058575e5dee12aa6"
 metafile = true
 
 [[files]]
@@ -643,8 +688,23 @@ hash = "af400e4556da94126796a8f2f9d1f060f05c91b4ecce8d6f3d20a9d6b3b77da2"
 metafile = true
 
 [[files]]
+file = "mods/scribble.pw.toml"
+hash = "3ad87fbb20108d7aa5c89759f64d6695e5ec68553f32976f0710bd0a4d34d85b"
+metafile = true
+
+[[files]]
+file = "mods/seamless-sleep.pw.toml"
+hash = "2ad800931c3c659fc2b01ee237ac2c0edf0ace3cdb5ff2022ac69505629d99c2"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/showcase-item.pw.toml"
+hash = "f67f27ecc171b7934e114a09ac00f066cb2343d2350f2f1b9a96bd33c022fb94"
 metafile = true
 
 [[files]]
@@ -703,6 +763,11 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
+file = "mods/squaremap.pw.toml"
+hash = "2025a366af748e77e7df6fea1d736a8bdf05dc97503eb64bf13964f7bc2136b2"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
@@ -718,6 +783,11 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/vinurl.pw.toml"
+hash = "1905601083809ad13f41c01aa7a967a6c17b0ac53a725d9664c9c9fbd3361429"
+metafile = true
+
+[[files]]
 file = "mods/xaero-zoomout.pw.toml"
 hash = "89e8aa3851da2a224d65258ff1fb63210095c38ceb28cbd524af195f01cdfac7"
 metafile = true
@@ -730,6 +800,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "192a4685f8a182d1fa2fae67e2fad8b74ba547726beecfe8868174b4172d76a8"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
@@ -784,7 +859,7 @@ metafile = true
 
 [[files]]
 file = "packwizignore.txt"
-hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
+hash = "582da65717aa9f4d27246f302f8298ba7a4a96313bcd86bd0db7caf22ca91756"
 
 [[files]]
 file = "resourcepacks/allthemons.pw.toml"

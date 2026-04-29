@@ -1,0 +1,13 @@
+name = "Cobblemon - MC Swords for Honedge Line"
+filename = "cobblemon-mc-swords-for-honedge-line-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RpsrF20p/versions/k3jrH57g/cobblemon-mc-swords-for-honedge-line-2.0.jar"
+hash-format = "sha512"
+hash = "970d41eef3f994c8cdf93ae216ba4dac00e24a0d0246647632eda0b72409ea1b39d6d5b693c6bcc62bad72c9f7067f4dcf6100ee884f1cb13a85cd4af8d8a6b9"
+
+[update]
+[update.modrinth]
+mod-id = "RpsrF20p"
+version = "k3jrH57g"

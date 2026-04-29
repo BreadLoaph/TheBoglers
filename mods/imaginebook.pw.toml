@@ -1,0 +1,13 @@
+name = "ImagineBook"
+filename = "imaginebook-neoforge-1.2.9+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iCl1mF5K/versions/htn0wv4L/imaginebook-neoforge-1.2.9%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "9f864dceb0030bab670bf0ac5ad854e32646e9d12b9b9ca01c6dd65205ab363996285195428540be49e55c12fba944e8d5e4a8018f216ac40b721b5bdec1c7d8"
+
+[update]
+[update.modrinth]
+mod-id = "iCl1mF5K"
+version = "htn0wv4L"

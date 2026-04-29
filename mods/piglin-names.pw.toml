@@ -1,0 +1,13 @@
+name = "Piglin Names"
+filename = "piglinnames-1.21.1-1.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/54plduvG/versions/7KMoV9Oz/piglinnames-1.21.1-1.3.jar"
+hash-format = "sha512"
+hash = "c67b11a6996a848c4b165a89c637d20a35bc9c80e8e65c1537ad2042d5d6f1ede0becfd4a5acdbe86f178e356495b6340acf7cc764a87fb7fdcbab218ff29126"
+
+[update]
+[update.modrinth]
+mod-id = "54plduvG"
+version = "7KMoV9Oz"

@@ -1,0 +1,13 @@
+name = "Cobble Blocks"
+filename = "cobbleblocks-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mq2KP6wB/versions/VWEblTSv/cobbleblocks-1.21.1.jar"
+hash-format = "sha512"
+hash = "4a748501c04bd02423254dbf10f699602995490e0c4f2a9f26fcd126cd2c766c80e6c6bc6a58a8ff0b87eaf9d4075f1d77ec3cf8b3b4ecbdcb9be16bfdbb5d40"
+
+[update]
+[update.modrinth]
+mod-id = "Mq2KP6wB"
+version = "VWEblTSv"
